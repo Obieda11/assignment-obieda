@@ -7,7 +7,10 @@ if age <= 12:
     Bill + 5
 elif age >12 and age <18:
     print("your ticket price is 8$ ")  
+    Bill + 8
 else:
     print("your ticket price is 10$")
+    Bill + 10
+
 
 print("Thank you for your visit")
